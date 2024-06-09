@@ -1,0 +1,1 @@
+from utils.write_csv import write_products_csv
